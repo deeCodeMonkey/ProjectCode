@@ -1,0 +1,12 @@
+#project-search-title {
+    height: 75px;
+    background-color: #58646c;
+    color: white;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+#search-form {
+    background-color: #f2f2f3; 
+    padding: 10px;
+}

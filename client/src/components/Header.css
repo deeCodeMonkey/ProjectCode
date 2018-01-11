@@ -1,0 +1,37 @@
+nav {
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    height: 150px;
+    left: 50%;
+    background-color: #58646c !important;
+}
+
+.brand-logo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 80px !important;
+} 
+
+#login-button {
+    padding-top: 20px !important;
+
+}
+
+.log-in {
+    height: 35px;
+}
+
+.home-button {
+    margin-top: 20px !important;
+    margin-left: 15px;
+    background-color: #0369a0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logout-button {
+    margin-top: 20px !important;
+    margin-right: 15px;
+    background-color: #0369a0;
+    font-family: 'Poppins', sans-serif;
+}
